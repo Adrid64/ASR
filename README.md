@@ -1,17 +1,17 @@
-# 📚 ASR — Trabajos de Teoría
+# 📚 ASR — Theory Projects
 
-Repositorio de la asignatura **Administración de Sistemas y Redes (ASR)**  
-Aquí encontrarás dos trabajos prácticos en formato PDF sobre tecnologías actuales en sistemas y redes:
+Repository for the subject **Systems and Networks Administration (ASR)**  
+Here you will find two practical assignments in PDF format about current technologies in systems and networks:
 
 - **BackupsTiempoRealConAzure.pdf**  
-  Explica cómo implementar copias de seguridad en tiempo real utilizando la nube de Azure. Incluye conceptos, ventajas y un ejemplo de despliegue de backups automáticos.
+  Explains how to implement real-time backups using Microsoft Azure cloud. Includes concepts, advantages, and an example of automatic backup deployment.
 
 - **DespliegueConDocker.pdf**  
-  Describe el proceso de despliegue de servicios y aplicaciones usando Docker. Incluye los pasos básicos, comandos esenciales y recomendaciones para crear entornos reproducibles.
+  Describes the process of deploying services and applications using Docker. Covers the basic steps, essential commands, and recommendations to create reproducible environments.
 
 ---
 
-## 📂 Estructura
+## 📂 Structure
 
 ```
 ASR/
@@ -22,11 +22,9 @@ ASR/
 
 ---
 
-
-
-## 👨‍🎓 Autoría
+## 👨‍🎓 Author
 
 Adrid64  
-Universidad de Oviedo — Grado en Ingeniería Informática del software
+University of Oviedo — Bachelor’s Degree in Software Engineering
 
 ---
